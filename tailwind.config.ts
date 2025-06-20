@@ -18,6 +18,9 @@ const config: Config = {
       },
     },
     extend: {
+      screens: {
+        screen24: '2560px',
+      },
       fontFamily: {
         grotesk: ['DFVN Constructio Grotesk', 'sans-serif'],
         montserrat: ['Montserrat', 'sans-serif'],

@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "button": "Tôi muốn hiểu bạn hơn!",
+      "engButton": "I want to know more about you!",
+      "response": "Cảm ơn bạn muốn tìm hiểu tụi mình hơn <3. Vậy thì mình cùng bắt đầu hành trình khám phá nhé!",
+      "engResponse": "Thank you for wanting to know more about us <3. Let's start our journey of discovery!",
+      "followUp": ["Paracosm là gì?", "Tại sao Paracosm được thành lập?", "Paracosm được thành lập bởi ai nhỉ?"],
+      "engFollowUp": ["What is Paracosm?", "Why was Paracosm established?", "Who founded Paracosm?"],
+      "followUpResponse": [
+        "Paracosm có nghĩa là một thế giới được tạo ra trong trí tưởng tượng của mỗi con người trong thời thơ ấu. Kế thừa khái niệm đó, Paracosm là một tổ chức nhỏ được lập nên để tạo ra nhiều ký ức đẹp trong tuổi thơ của các bạn nhỏ ở các khu vực vùng sâu vùng xa.",
+        "Paracosm hiểu rằng ngoài kia có nhiều điểm trường gặp nhiều điều kiện khó khăn nhưng vẫn chưa được biết đến nhiều để tiếp cận được với những sự hỗ trợ. Tụi mình muốn tìm hiểu thêm về những điểm trường như vậy và làm truyền thông cũng như các chương trình cho các điểm trường, để từ đó các điểm trường sẽ dễ dàng tiếp cận được hơn đến với các mạnh thường quân cũng như các sự hỗ trợ cần thiết cho các em nhỏ trên hành trình đến trường.",
+        "Paracosm ban đầu được lập nên bởi Minh My và Tăng Lợi, 2 bạn Graphic Design nhỏ muốn đem những kỹ năng của mình để làm được một điều gì đó cống hiến ngược cho xã hội, đặc biệt là ủng hộ tinh thần các bạn nhỏ trên con đường đến trường của các bạn."
+      ],
+      "engFollowUpResponse": [
+        "Paracosm means a world created in the imagination of each person in childhood. Inheriting that concept, Paracosm is a small organization established to create many beautiful memories in the childhood of children in remote areas.",
+        "Paracosm understands that there are many schools out there facing difficult conditions but are still not well-known enough to access support. We want to learn more about such schools and create media and programs for them, so that these schools can more easily reach out to sponsors and necessary support for children on their journey to school.",
+        "Paracosm was initially founded by Minh My and Tang Loi, two small Graphic Design students who wanted to use their skills to contribute something back to society, especially to support the spirit of children on their way to school."
+      ],
+      "finalQuestion": "Tìm hiểu thêm về Paracosm",
+      "engFinalQuestion": "Learn more about Paracosm"
+    },
+    {
+      "id": 2,
+      "button": "Cho tôi xem dự án với!",
+      "engButton": "Show me the projects!",
+      "response": "Với mục tiêu là muốn truyền đi ngọn lửa đam mê cũng như thắp nên ngọn lửa cho hành trình đến trường của các bạn nhỏ, Paracosm hiện đang có 2 chương trình là \"Truyền lửa ước mơ\" và \"Thắp lửa đêm trăng\".",
+      "engResponse": "With the goal of spreading the flame of passion and igniting the fire for children's journey to school, Paracosm currently has two programs: \"Dream Flame\" and \"Moonlight Flame\".",
+      "followUp": ["Phóng sự dự án", "Chương trình \"Truyền lửa ước mơ\"", "Chương trình \"Thắp lửa đêm trăng\""],
+      "engFollowUp": ["Project report", "Program \"Dream Flame\"", "Program \"Moonlight Flame\""],
+      "followUpResponse": [
+        "Xem phóng sự tại đây",
+        "TRUYỀN LỬA ƯỚC MƠ được tổ chức với nhiều hoạt động hứng thú, chẳng hạn như học khoa học thường thức qua các thí nghiệm thực tiễn, các workshop thủ công kích thích sự sáng tạo, từ đó tọa nên sự hứng thú với các bạn nhỏ đối với hành trình tiếp thu kiến thức, giữ vững tinh thần đến trường của các bạn.",
+        "THẮP LỬA ĐÊM TRĂNG được tổ chức với nhiều hoạt động trong đêm trung thu, với các hoạt động như tự tay làm lồng đèn, phá cỗ đêm trăng rầm. Chương trình được tạo ra với mong muốn tạo ra những kỷ niệm đẹp ghi được dấu ấn trên hành trình đến trường của các bạn nhỏ."
+      ],
+      "engFollowUpResponse": [
+        "Watch the report here",
+        "DREAM FLAME is organized with many exciting activities, such as learning everyday science through practical experiments, creative workshops that stimulate creativity, thereby creating enthusiasm among children for their journey of knowledge acquisition and maintaining their spirit of going to school.",
+        "MOONLIGHT FLAME is organized with various activities during the Mid-Autumn Festival night, including making lanterns by hand and enjoying the moonlit feast. The program aims to create beautiful memories that leave a mark on children's journey to school."
+      ],
+      "finalQuestion": "Tìm hiểu thêm về các dự án",
+      "engFinalQuestion": "Learn more about the projects"
+    },
+    {
+      "id": 3,
+      "button": "Tôi muốn hỗ trợ",
+      "engButton": "I want to support",
+      "response": "Cảm ơn bạn đã quan tâm đến dự án của tụi mình. Do Paracosm là một tổ chức hoạt động cộng đồng nên rất cần sự hỗ trợ từ mọi người.",
+      "engResponse": "Thank you for your interest in our project. As Paracosm is a community organization, we greatly need support from everyone.",
+      "followUp": ["Tôi có thể hỗ trợ những gì?"],
+      "engFollowUp": ["What can I support?"],
+      "followUpResponse": [
+        "Hiện tại tụi mình vẫn cần hỗ trợ về tài chính cho các dự án chương trình. Ngoài ra tụi mình vẫn nhận hỗ trợ các vật dụng như tập sách, dụng cụ học tập, đồ chơi. Hơn hết thảy, bạn cũng có thể ủng hộ dự án tụi mình thông qua việc chia sẻ về tụi mình để mọi người có thể biết nhiều hơn đến dự án."
+      ],
+      "engFollowUpResponse": [
+        "Currently, we still need financial support for our program projects. In addition, we also accept support in the form of books, school supplies, and toys. Most importantly, you can also support our project by sharing about us so that more people can learn about it."
+      ],
+      "finalQuestion": "Các cách thức liên hệ",
+      "engFinalQuestion": "Contact methods"
+    },
+    {
+      "id": 4,
+      "button": "Khác",
+      "engButton": "Other",
+      "response": "Hmm...Mình có một câu hỏi dành cho bạn: Cái gì sống nếu bạn cho ăn, mà chết nếu bạn cho uống?",
+      "engResponse": "Hmm... I have a question for you: What lives if you feed it, but dies if you give it water?",
+      "followUp": ["Động vật", "Cây cối", "Ngọn lửa"],
+      "engFollowUp": ["Animals", "Plants", "Fire"],
+      "followUpResponse": [
+        "Huhu không chính xác rồi : Đáp án đúng phải là \"Ngọn lửa\". \"Ngọn lửa\" cũng là linh vật chính của Paracosm, thể hiện hình ảnh mỗi thành viên của tổ chức đều là một ngọn lửa, truyền đi những đam mê nhiệt huyết đến với các bạn học sinh ở vùng sâu vùng xa.",
+        "Huhu không chính xác rồi: Đáp án đúng phải là \"Ngọn lửa\". \"Ngọn lửa\" cũng là linh vật chính của Paracosm, thể hiện hình ảnh mỗi thành viên của tổ chức đều là một ngọn lửa, truyền đi những đam mê nhiệt huyết đến với các bạn học sinh ở vùng sâu vùng xa.",
+        "Yes sir chính xác là như vậy rồi. \"Ngọn lửa\" cũng là linh vật chính của Paracosm, thể hiện hình ảnh mỗi thành viên của tổ chức đều là một ngọn lửa, truyền đi những đam mê nhiệt huyết đến với các bạn học sinh ở vùng sâu vùng xa."
+      ],
+      "engFollowUpResponse": [
+        "Huhu not correct : The correct answer is \"Fire\". \"Fire\" is also the main mascot of Paracosm, representing each member of the organization as a flame, spreading passion and enthusiasm to students in remote areas.",
+        "Huhu not correct: The correct answer is \"Fire\". \"Fire\" is also the main mascot of Paracosm, representing each member of the organization as a flame, spreading passion and enthusiasm to students in remote areas.",
+        "Yes sir that's correct. \"Fire\" is also the main mascot of Paracosm, representing each member of the organization as a flame, spreading passion and enthusiasm to students in remote areas."
+      ],
+      "finalQuestion": ["Tìm hiểu thêm về Paracosm", "Tìm hiểu thêm về các dự án", "Các cách thức liên hệ"],
+      "engFinalQuestion": ["Learn more about Paracosm", "Learn more about the projects", "Contact methods"]
+    }
+  ]
