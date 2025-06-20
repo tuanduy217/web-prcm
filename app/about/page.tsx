@@ -216,8 +216,8 @@ export default function AboutPage() {
                     {/* Cột phải: nội dung */}
                     <div className="lg:w-2/3 w-full text-sm space-y-6 leading-relaxed">
                         <div>
-                            <p className="font-bold text-white">+ TẦM NHÌN</p>
-                            <p>
+                            <p className="font-bold text-2xl text-white">+ TẦM NHÌN</p>
+                            <p className='text-justify'>
                                 <strong>Paracosm</strong> mang trong mình một tầm nhìn giản dị mà sâu xa: Tầm nhìn của Paracosm đã được
                                 nhắc đến ngay từ cái tên: trở thành một nơi mà mọi trẻ em – dù ở đâu, dù hoàn cảnh thế nào –
                                 đều có cơ hội được học tập, vui chơi và lớn lên trong tình thương yêu. Tụi mình tin rằng tuổi thơ
@@ -227,8 +227,8 @@ export default function AboutPage() {
                         </div>
 
                         <div>
-                            <p className="font-bold text-white">+ MỤC TIÊU</p>
-                            <p>
+                            <p className="font-bold text-2xl text-white">+ MỤC TIÊU</p>
+                            <p className='text-justify'>
                                 <strong>Paracosm</strong> hướng tới việc có thể tạo ra những thay đổi bền vững và lâu dài, truyền lửa cho các em
                                 thông qua các hoạt động vừa chơi vừa học. Tụi mình nghĩ rằng từ đó, niềm yêu thích học tập
                                 trong các em sẽ dần được thắp sáng, giữ vững niềm tin đến trường mặc cho vẫn còn gặp những
@@ -239,13 +239,13 @@ export default function AboutPage() {
 
                         <hr className="border-white/70" />
 
-                        <p>
+                        <p className='text-justify'>
                             Tụi mình tin rằng mọi việc đều được nuôi dưỡng bởi tình yêu thương, sự đồng cảm và mỗi người
                             đều có thể góp phần tạo nên sự thay đổi. Paracosm không phải là một phép màu – nhưng chúng
                             tôi tin rằng, nếu đủ nhiều người cùng chung tay, thì thế giới tốt đẹp hơn cho trẻ em không phải
                             là điều xa vời
                         </p>
-                        <p>
+                        <p className='text-justify'>
                             Với <strong>Paracosm</strong>, tầm nhìn và mục tiêu không chỉ là đích đến – mà là một hành trình, nơi từng bước
                             chân, từng nụ cười của trẻ nhỏ là nguồn động lực để tiếp tục đi xa hơn nữa.
                         </p>
@@ -275,24 +275,24 @@ export default function AboutPage() {
 
                 {/* Nội dung mô tả */}
                 <div className="max-w-4xl mx-auto text-sm leading-relaxed space-y-4">
-                    <p>
+                    <p className='text-justify'>
                         <strong>Giá trị cốt lõi</strong> của <strong>Paracosm</strong> được thể hiện thông qua thông điệp chính mà tụi mình thường hay truyền tải, 4
                         <strong> “con chữ vàng”</strong> cho toàn bộ hướng đi của Paracosm đó chính là
                         <strong> “TRUYỀN LỬA ƯỚC MƠ”</strong>.
                     </p>
 
-                    <p>
+                    <p className='text-justify'>
                         Với Paracosm, mỗi bạn nhỏ đều mang trong mình một ngọn lửa – đó là những ước mơ trong veo, những niềm vui được học, được chơi,
                         được lớn lên giữa yêu thương. Vì thế, các thành viên của Paracosm đều mong muốn được đóng vai thành những ngọn lửa để tiếp tục
                         truyền nó đến những ngọn đuốc ước mơ của các bạn.
                     </p>
 
-                    <p>
+                    <p className='text-justify'>
                         Tụi mình tin vào sự sáng tạo và trí tưởng tượng của các em nhỏ, bởi đó là cái nôi của ước mơ. Các sân chơi, buổi đọc sách, lớp vẽ
                         thủ công mà Paracosm tổ chức là không gian để các em được bay bổng theo cách riêng của mình.
                     </p>
 
-                    <p>
+                    <p className='text-justify'>
                         Hơn hết thảy, Paracosm giữ vững giá trị trách nhiệm và minh bạch, để mọi đóng góp đều được gửi đến đúng nơi cần nhất, và mỗi người
                         đồng hành đều cảm thấy mình đang góp phần thắp lên một ngọn lửa.
                     </p>
@@ -337,7 +337,7 @@ export default function AboutPage() {
                                         className="object-cover w-auto rounded"
                                     />
                                 </div>
-                                <p className="text-sm text-black mb-4 leading-relaxed">{program.desc}</p>
+                                <p className="text-sm text-justify text-black mb-4 leading-relaxed">{program.desc}</p>
 
                                 <button className="px-4 py-1 border border-black rounded-full text-sm font-semibold hover:bg-black hover:text-white transition">
                                     Tìm hiểu thêm

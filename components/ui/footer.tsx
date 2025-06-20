@@ -20,10 +20,23 @@ const Footer: React.FC = () => {
                 <div className="text-center">
                     <h3 className="font-bold text-lg mb-4">Theo dõi tụi mình tại</h3>
                     <div className="flex justify-center space-x-6 text-2xl">
-                        <a href="#" aria-label="Facebook" className="hover:text-blue-600">
+                        <a
+                            href="https://www.facebook.com/paracosmkeeper"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            aria-label="Facebook"
+                            className="hover:text-blue-600"
+                        >
                             <FaFacebookF />
                         </a>
-                        <a href="#" aria-label="Instagram" className="hover:text-pink-500">
+
+                        <a
+                            href="https://www.instagram.com/paracosm_keeper/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            aria-label="Instagram"
+                            className="hover:text-pink-500"
+                        >
                             <FaInstagram />
                         </a>
                         <a href="#" aria-label="Tiktok" className="hover:text-black">
